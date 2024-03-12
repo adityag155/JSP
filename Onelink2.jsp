@@ -10,7 +10,6 @@ int sum=fno+sno;
 <center>
 <font color="blue" size="15">
 
-
 <%
 out.println("Summation="+sum);
 %>
