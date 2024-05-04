@@ -17,7 +17,5 @@ out.println("Summation="+sum);
 </font>
 </center>
 
-
-
 </html>
 </body>
